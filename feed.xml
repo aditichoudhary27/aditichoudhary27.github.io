@@ -3,10 +3,27 @@
     <title>Aditi&#x27;s Space</title>
     <link href="https://aditichoudhary27.github.io/feed.xml" rel="self" />
     <link href="https://aditichoudhary27.github.io" />
-    <updated>1970-01-01T05:30:00+05:30</updated>
+    <updated>2020-03-30T20:45:03+05:30</updated>
     <author>
         <name>Aditi Choudhary</name>
     </author>
     <id>https://aditichoudhary27.github.io</id>
 
+    <entry>
+        <title>Photography </title>
+        <author>
+            <name>Aditi Choudhary</name>
+        </author>
+        <link href="https://aditichoudhary27.github.io/photography.html"/>
+        <id>https://aditichoudhary27.github.io/photography.html</id>
+
+        <updated>2020-03-30T20:41:51+05:30</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://aditichoudhary27.github.io/media/posts/1/DSC02195.JPG" alt="" />
+                <img class="post__image" src="https://aditichoudhary27.github.io/media/posts/1/DSC02193.JPG" alt="" width="5184" height="2920">
+            ]]>
+        </content>
+    </entry>
 </feed>
